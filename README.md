@@ -11,7 +11,8 @@ Analyses derived from the dataset
 
 Easy-to-read cards visualize important primary KPIs of total casualties and the percentage of total casualties concerning the accident severity and maximum casualties by the type of vehicle
 
-![image](https://github.com/user-attachments/assets/bddb4d84-2ae0-41ae-8a97-2e76b23cdbb8)
+![image](https://github.com/user-attachments/assets/d9e6241f-95c2-4fec-96e6-766a80447a12)
+
 
 
 
