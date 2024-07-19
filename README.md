@@ -20,6 +20,9 @@ Easy-to-read cards visualize important primary KPIs of total casualties and the 
 ![image](https://github.com/user-attachments/assets/b970b0eb-126d-4ae8-8222-f7fcee3ef71b)
 
 
+![image](https://github.com/user-attachments/assets/edf51260-5b36-4af7-b85b-686a20b9b8ad)
+
+
 
 
 
