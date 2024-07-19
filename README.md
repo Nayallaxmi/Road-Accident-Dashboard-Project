@@ -15,7 +15,7 @@ Easy-to-read cards visualize important primary KPIs of total casualties and the 
 
 Cards Visualie Secondary KPIs of total casualties by vehicle type.
 
-                ![image](https://github.com/user-attachments/assets/b005f5f1-79a4-442e-b8c5-a018887b03c4)
+![image](https://github.com/user-attachments/assets/a019b81b-e1b5-4c4a-b872-14a171ed7183)
 
 
 
