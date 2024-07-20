@@ -21,10 +21,12 @@ Cards Visualie Secondary KPIs of total casualties by vehicle type.
 
 ![image](https://github.com/user-attachments/assets/c72c7dc2-0110-495e-94a7-b58269a1bc0c)
 
+![image](https://github.com/user-attachments/assets/d654ce80-285c-4989-ab35-82f3dffc2ea2)
 
 Active filters needed to interact with the data and the dashboard
 
-![image](https://github.com/user-attachments/assets/04efd755-9b39-4291-a8d6-f71531ccbaf2)
+![image](https://github.com/user-attachments/assets/6d04d774-cdef-4fda-b7cc-6a7485fa3ce4)
+
 
 Tools Used
 
