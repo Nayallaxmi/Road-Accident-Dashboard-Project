@@ -6,7 +6,6 @@ The project aims to create a comprehensive and interactive dashboard to analyze 
 
 - File format: .xlsx
 - Number of rows: 307,974
-- Number of fields: 21
 
 # Analyses derived from the dataset
 
