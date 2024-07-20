@@ -19,17 +19,12 @@ Cards Visualie Secondary KPIs of total casualties by vehicle type.
 
  Analysis of monthly trend showing a comparison of casualties in 2021 and 2022, Maximum casualties by road type, Distribution of total casualties by road surface and Relation between casualties by area/location and day/night
 
-![image](https://github.com/user-attachments/assets/2b1e0df8-55a3-4fbc-a27b-bbab787da5ba)
+![image](https://github.com/user-attachments/assets/c72c7dc2-0110-495e-94a7-b58269a1bc0c)
 
-![image](https://github.com/user-attachments/assets/114240fa-9d87-43e8-a491-c35d195186ac)
-
-![image](https://github.com/user-attachments/assets/a1e24646-1598-49e2-8961-0f6215bc2664)
-
-![image](https://github.com/user-attachments/assets/1f532bc1-0ee1-4cbe-b5eb-6b0a92bb0447)
 
 Active filters needed to interact with the data and the dashboard
 
-![image](https://github.com/user-attachments/assets/074f42e1-2825-4b48-960b-3ddd7658001e)
+![image](https://github.com/user-attachments/assets/04efd755-9b39-4291-a8d6-f71531ccbaf2)
 
 Tools Used
 
