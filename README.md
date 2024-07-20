@@ -1,13 +1,14 @@
 # Road-Accident-Dashboard-Project
-Problem Statement
+# Problem Statement
 The project aims to create a comprehensive and interactive dashboard to analyze road accidents in 2021 and 2022. The dashboard will provide actionable insights into casualties, accident severity, vehicle types, and more, enabling stakeholders to make data-driven decisions and improve road safety.
-Data Overview
+
+# Data Overview
 
 - File format: .xlsx
 - Number of rows: 307,974
 - Number of fields: 21
 
-Analyses derived from the dataset
+# Analyses derived from the dataset
 
 Easy-to-read cards visualize important primary KPIs of total casualties and the percentage of total casualties concerning the accident severity and maximum casualties by the type of vehicle
 
@@ -23,21 +24,22 @@ Cards Visualie Secondary KPIs of total casualties by vehicle type.
 
 ![image](https://github.com/user-attachments/assets/4e133be9-fdec-4894-9b1f-c46b3b1badf7)
 
-Tool used
+# Tool used
 
-Tools Used:
-
-- Microsoft Excel
+- # Microsoft Excel
 
 1. Data Cleaning: Reviewed and corrected data errors and inconsistencies to ensure accuracy.
 2. Data Processing: Added customized columns to the data to enhance analysis capabilities.
 3. Data Analysis: Utilized Pivot Tables to examine and interpret data, identifying key trends and insights.
 4. Data Visualization: Created charts and custom sheets to effectively communicate findings and insights.
 
-Overview
+# Overview
+![image](https://github.com/user-attachments/assets/11d9772e-3d8d-4c80-8942-798ee05e93ce)
 
-![image](https://github.com/user-attachments/assets/511ef9fb-4ea5-480b-8b36-56a673e317b9)
 
+
+                     
+																					
 
 
 
