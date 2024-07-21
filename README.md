@@ -30,10 +30,12 @@ Cards Visualie Secondary KPIs of total casualties by vehicle type.
 1. Data Cleaning: Reviewed and corrected data errors and inconsistencies to ensure accuracy.
 2. Data Processing: Added customized columns to the data to enhance analysis capabilities.
 3. Data Analysis: Utilized Pivot Tables to examine and interpret data, identifying key trends and insights.
-4. Data Visualization: Created charts and custom sheets to effectively communicate findings and insights.
+4. Data Visualization: Created charts and custom sheets to communicate findings and insights effectively.
 
 # Overview
 ![image](https://github.com/user-attachments/assets/11d9772e-3d8d-4c80-8942-798ee05e93ce)
+
+Uploading road-accident-project-dashboard-excel-2024-07-21-09-52-33_oCS1F3RM.mp4…
 
 
                      
