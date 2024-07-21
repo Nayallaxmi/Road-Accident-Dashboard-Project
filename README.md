@@ -35,7 +35,8 @@ Cards Visualie Secondary KPIs of total casualties by vehicle type.
 # Overview
 ![image](https://github.com/user-attachments/assets/11d9772e-3d8d-4c80-8942-798ee05e93ce)
 
-Uploading road-accident-project-dashboard-excel-2024-07-21-09-52-33_oCS1F3RM.mp4…
+[https://github.com/user-attachments/assets/2e67e62e-6347-4f80-9cfa-ffa6bc22b518]
+
 
 
                      
